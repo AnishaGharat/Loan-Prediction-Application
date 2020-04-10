@@ -67,7 +67,7 @@ $  . path_to_project/venv/bin/activate
 - In the terminal type the following command
 
 ```
-$ git clone https://github.com/Gopesh2210/Loan-Predictor.git
+$ git clone https://github.com/AnishaGharat/Loan-Prediction-Application.git
 ```
 
 This command will pull the latest project files from git repository.
